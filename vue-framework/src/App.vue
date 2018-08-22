@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <app-user></app-user>
+    <router-view></router-view>
+    <!-- <app-user></app-user> -->
+    <p>I'm not italicized!</p>
   </div>
 </template>
 
